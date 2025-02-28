@@ -1,0 +1,133 @@
+﻿Blockchain Server
+----------
+Login,
+View All e KYC Details,
+
+Create Block chain and View All e KYC Details,
+
+Authority
+-----------
+
+Login,
+View All Clients and Authorize,
+
+View All Smart contracts Users and Authorize, 
+
+
+Client
+--------
+
+Register and Login,
+View Profile,
+
+Upload e KYC Details, 
+
+View All Uploaded User e KYC Details,
+
+
+Smart Contract
+----------
+Register and Login,
+View Profile,
+
+View All e KYC Details and Permit,
+
+
+Cloud Server
+-----------
+
+Login,
+View All Permitted e KYC Details, 
+
+View Transaction Results, 
+
+View e KYC Location Results,
+
+View Permission Status Results. 
+
+
+
+Members
+---------
+Id,
+User Name, 
+Email,
+Mobile,
+Address,
+Date of Birth,
+Adhaar or PAN Number,
+Adhaar or PAN Address,
+Adhaaror PAN Image,
+Date and Time,
+Uploader Name,
+SK,
+Permission to IPFS, 
+Location, 
+Location Hash Code. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
