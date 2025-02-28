@@ -48,8 +48,12 @@
 	font-size:20px;
 }
 /* buttons Next and Prew */
-.cs-prev, .cs-next {
+.cs-next, .cs-prev {
 	background:url(../images/overlay.png) repeat left top;
 	color:#fff;
 	padding:0 10px;
+}
+
+#size{
+	font-size: 1.5rem;
 }

@@ -112,7 +112,7 @@ h1 small {
 }
 .menu_nav {
 	margin:0 auto;
-	padding:13px 0 0;
+	padding:0px 0 0;
 	float:right;
 }
 .menu_nav ul {
@@ -128,9 +128,9 @@ h1 small {
 .menu_nav ul li a {
 	display:block;
 	margin:0;
-	padding:24px 16px;
-	font-size:13px;
-	line-height:18px;
+	padding:15px 10px;
+	font-size:15px;
+	line-height:10px;
 	font-weight:normal;
 	color:#fff;
 	text-decoration:none;
